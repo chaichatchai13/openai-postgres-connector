@@ -1,6 +1,6 @@
-# FastAPI with OpenAI and PostgreSQL Integration
+# Python FastAPI with OpenAI and PostgreSQL Integration
 
-This project demonstrates how to use FastAPI to create a simple API that interacts with OpenAI's API and stores responses in a PostgreSQL database.
+This project demonstrates how to use FastAPI in Python to create a simple API that interacts with OpenAI's API and stores responses in a PostgreSQL database.
 
 ## Requirements
 

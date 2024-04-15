@@ -13,14 +13,14 @@ Ensure you have Python 3.6+ installed on your system. You also need PostgreSQL r
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://your-repository-url-here
-cd your_project
+git clone https://github.com/chaichatchai13/openai-postgres-connector.git
+cd openai-postgres-connector
 ```
 
 ## Install Dependencies
 Install the required Python dependencies by running:
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Environment Variables

@@ -34,3 +34,7 @@ To start the server, run the following command from the root of your project dir
 ```
 uvicorn app.main:app --host 0.0.0.0 --port 8080 --reload
 ```
+
+## Testing
+To test this application. Go to FastAPI Swagger http://localhost:8080/docs
+![img.png](img.png)
